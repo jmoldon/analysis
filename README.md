@@ -11,7 +11,13 @@ Instalar en conda environment para tener las dependencias:
 mamba env create -f environment.yml
 ```
 
+Clona el repositorio:
+```
+git clone https://github.com/jmoldon/analysis.git
+```
+
 Ejecutar:
 ```
 Rscript script2.r
 ```
+![](mtcars.png)

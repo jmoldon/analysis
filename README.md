@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jmoldon/analysis/HEAD)
+
 # analysis
 
 Voy a hacer una gráfica con los datos.
